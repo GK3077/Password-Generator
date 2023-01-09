@@ -1,5 +1,5 @@
 # Password-Generator
-Welcome to the Password Generator!
+Welcome to the Password Generator! 👋
 
 This is a simple Python program that generates a random password for the user. The password will be a combination of letters, numbers, and special characters, and will be between 8 and 16 characters long.
 
